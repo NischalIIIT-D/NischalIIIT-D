@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nischal Kant Singh
 - 🎓 I'm currently pursuing my B.Tech from IIIT-D
 - 👀 I’m interested in Python, C/C++, DSA
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning DSA
 - 😄 Pronouns: He/Him
 
 <!---
